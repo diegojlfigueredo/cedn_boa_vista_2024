@@ -36,13 +36,21 @@ O repositório está organizado da seguinte forma:
 
 cedn_boa_vista_2024/
 ├── dados/
+
 │   └── cedn_boa_vista_2024.csv   # Arquivo CSV com os dados brutos dos eventos.
+
 ├── imagens/
+
 │   ├── titulos_palestras_distribuicao.png # Gráfico da distribuição dos títulos de palestras.
+
 │   ├── palestrantes_distribuicao.png      # Gráfico da distribuição dos palestrantes.
+
 │   └── palestrante_titulo_heatmap.png     # Heatmap da relação entre palestrante e título (se gerado).
+
 ├── notebook/
+
 │   └── cedn_boa_vista_2024.ipynb # O Jupyter Notebook contendo toda a análise.
+
 └── README.md                     # Este arquivo.
 
 ## 🚀 Como Executar a Análise
